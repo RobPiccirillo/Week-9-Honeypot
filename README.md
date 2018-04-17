@@ -20,7 +20,7 @@ src='https://github.com/RobPiccirillo/Week-9-Honeypot/blob/master/honeypotAttack
 title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-Question #1: **Which Honeypot(s) you deployed**
+# Question #1: **Which Honeypot(s) you deployed**
   
   * Honeypot #1: Dionaea with HTTPS
   
@@ -30,11 +30,11 @@ Question #1: **Which Honeypot(s) you deployed**
   
   * Honeypot #4: ElasticHoney
 
-Question #2: **Any issues you encountered**
+# Question #2: **Any issues you encountered**
   * Setup was extremely long. Took a majority of the time, to be honest. 
   * In addition to this, both my Shockpot and ElasticHoney honeypot's showed as having had 0 attacks, despite me Nmapping both of their      IPs and it showing as having been successful.
 
-Question #3: **A summary of the data collected: number of attacks, number of malware samples, etc.**
+# Question #3: **A summary of the data collected: number of attacks, number of malware samples, etc.**
  At the time of writing, there have been 3,806 attacks in the past twenty-four hours:
   * Dionaea - 3,709 
   * Snort - 97 
@@ -56,5 +56,5 @@ Question #3: **A summary of the data collected: number of attacks, number of mal
   * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 3 (14 times)
   * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4 (7 times)
 
-Question #4: **Any unresolved questions raised by the data collected**
+# Question #4: **Any unresolved questions raised by the data collected**
   * Is the internet really this dangerous? It didn't take long at all for my honeypot's to be "attacked".
