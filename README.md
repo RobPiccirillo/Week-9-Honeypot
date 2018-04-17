@@ -14,6 +14,12 @@ An attack surface that is vulnerable or exposed in some way to network-based att
 A network security feature such as an IDS configured to detect and log such attacks
 Illustration of at least one attack against the honeypot that can be detected or logged in a way that captures information about the attack or the attacker
 
+
+<img
+src='https://github.com/RobPiccirillo/Week-9-Honeypot/blob/master/honeypotAttacks.gif'
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 Question #1: **Which Honeypot(s) you deployed**
   
   * Honeypot #1: Dionaea with HTTPS
