@@ -16,16 +16,16 @@ Illustration of at least one attack against the honeypot that can be detected or
 
 Question #1: **Which Honeypot(s) you deployed**
   
-  []Honeypot #1: Dionaea with HTTPS
+  * Honeypot #1: Dionaea with HTTPS
   
-  []Honeypot #2: Snort
+  * Honeypot #2: Snort
   
-  []Honeypot #3: Wordpot
+  * Honeypot #3: Wordpot
   
-  []Honeypot #4: Dionaea
+  * Honeypot #4: Dionaea
 
 Question #2: **Any issues you encountered**
-  *Setup was extremely long. Took a majority of the time, to be honest.
+  * Setup was extremely long. Took a majority of the time, to be honest.
 
 Question #3: **A summary of the data collected: number of attacks, number of malware samples, etc.**
 
