@@ -15,10 +15,14 @@ A network security feature such as an IDS configured to detect and log such atta
 Illustration of at least one attack against the honeypot that can be detected or logged in a way that captures information about the attack or the attacker
 
 Question #1: **Which Honeypot(s) you deployed**
-  *Honeypot #1: Dionaea with HTTPS
-  *Honeypot #2: Snort
-  *Honeypot #3: Wordpot
-  *Honeypot #4: Dionaea
+  
+  []Honeypot #1: Dionaea with HTTPS
+  
+  []Honeypot #2: Snort
+  
+  []Honeypot #3: Wordpot
+  
+  []Honeypot #4: Dionaea
 
 Question #2: **Any issues you encountered**
   *Setup was extremely long. Took a majority of the time, to be honest.
