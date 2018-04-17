@@ -20,13 +20,16 @@ Question #1: **Which Honeypot(s) you deployed**
   
   * Honeypot #2: Snort
   
-  * Honeypot #3: Wordpot
+  * Honeypot #3: Shockpot
   
-  * Honeypot #4: Dionaea
+  * Honeypot #4: ElasticHoney
 
 Question #2: **Any issues you encountered**
-  * Setup was extremely long. Took a majority of the time, to be honest.
+  * Setup was extremely long. Took a majority of the time, to be honest. 
+  * In addition to this, both my Shockpot and ElasticHoney honeypot's showed as having had 0 attacks, despite me Nmapping both of their      IPs.
 
 Question #3: **A summary of the data collected: number of attacks, number of malware samples, etc.**
+  * At the time of writing, 
 
 Question #4: **Any unresolved questions raised by the data collected**
+  * Is the internet really this dangerous? It didn't take long at all for my honeypot's to be "attacked".
