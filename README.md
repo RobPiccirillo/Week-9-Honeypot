@@ -2,7 +2,7 @@
 
 # Project 9 - Honeypot
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild.
 
