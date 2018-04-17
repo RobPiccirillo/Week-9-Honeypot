@@ -32,10 +32,29 @@ Question #1: **Which Honeypot(s) you deployed**
 
 Question #2: **Any issues you encountered**
   * Setup was extremely long. Took a majority of the time, to be honest. 
-  * In addition to this, both my Shockpot and ElasticHoney honeypot's showed as having had 0 attacks, despite me Nmapping both of their      IPs.
+  * In addition to this, both my Shockpot and ElasticHoney honeypot's showed as having had 0 attacks, despite me Nmapping both of their      IPs and it showing as having been successful.
 
 Question #3: **A summary of the data collected: number of attacks, number of malware samples, etc.**
-  * At the time of writing, 3,
+ At the time of writing, there have been 3,806 attacks in the past twenty-four hours:
+  * Dionaea - 3,709 
+  * Snort - 97 
+  * Shockpot - 0  
+  * ElasticHoney - 0
+  
+ Top three attacked ports were:
+  * Port 3389 (97 times)
+  * Port 5060 (51 times)
+  * Port 23 (37 times)
+  
+  Top three attacker IPs were:
+  * 147.4.36.73 (3,186 attacks)
+  * 191.101.167.37 (52 attacks)
+  * 46.17.98.45 (40 attacks)
+  
+  Top three attacks signatures:
+  * ET DROP Dshield Block Listed Source group 1 (28 times)
+  * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 3 (14 times)
+  * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4 (7 times)
 
 Question #4: **Any unresolved questions raised by the data collected**
   * Is the internet really this dangerous? It didn't take long at all for my honeypot's to be "attacked".
